@@ -16,7 +16,7 @@
 ### My Goals
 > - [ ] Wordpress Shopyfy
 >- [ ] SQL
->- [ ] HTML5|CSS3
+>- [ ] Symphony
 >- [ ] C++
 </center>
 
