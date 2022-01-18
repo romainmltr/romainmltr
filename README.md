@@ -2,8 +2,10 @@
 
 <center>
 
-##Student 🧑‍🎓
-###School locate Paris La Défence [IIM](https://www.iim.fr/)
+
+  Student 🧑‍🎓
+
+  School locate Paris La Défence [IIM](https://www.iim.fr/)
 
 
 ![Alt Text](https://www.iim.fr/ecole-web/wp-content/uploads/2020/09/logo-iim-paris.png)
@@ -12,10 +14,9 @@
 >- [x] HTML5|CSS3
 >- [x] JavaScript
 >- [x] PHP
-
+> - [x] Wordpress Shopyfy
+> - [x] SQL
 ### My Goals
-> - [ ] Wordpress Shopyfy
->- [ ] SQL
 >- [ ] Symphony
 >- [ ] C++
 </center>
