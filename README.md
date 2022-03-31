@@ -9,16 +9,16 @@
 
 
 ![Alt Text](https://www.iim.fr/ecole-web/wp-content/uploads/2020/09/logo-iim-paris.png)
-> - [x] HTML5|CSS3 
 >- [x] Photoshop| Adobe XD | Illustrator
->- [x] HTML5|CSS3
 >- [x] JavaScript
 >- [x] PHP
 > - [x] Wordpress Shopyfy
 > - [x] SQL
-### My Goals
->- [ ] Symphony
->- [ ] C++
+>- [x] UI>UX
+>- [x] Symfony
+>- [x] Tailwind
+>- [x] Vue.js
+
 </center>
 
 
