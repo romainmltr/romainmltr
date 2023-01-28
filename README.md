@@ -9,15 +9,16 @@
 
 
 ![Alt Text](https://www.iim.fr/ecole-web/wp-content/uploads/2020/09/logo-iim-paris.png)
->- [x] Photoshop| Adobe XD | Illustrator
+>- [x] Photoshop| Adobe XD | Figma
 >- [x] JavaScript
 >- [x] PHP
-> - [x] Wordpress Shopyfy
+> - [x] AngularJS 
 > - [x] SQL
 >- [x] UI>UX
->- [x] Symfony
->- [x] Tailwind
+>- [x] Symfony Laravel
+>- [x] Tailwind 
 >- [x] Vue.js
+  
 
 </center>
 
