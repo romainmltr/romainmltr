@@ -30,7 +30,7 @@
 * romain.malaterre@edu.devinci.fr
 * [Linkedin](https://www.linkedin.com/in/romain-malaterre/)
 
-![Alt Text](https://media.giphy.com/media/uM3n6atNyXAzcSMWkX/giphy-downsized-large.gif)
+![Alt Text](https://media.giphy.com/media/3oKIPAw4jjzPdEl6H6/giphy.gif)
 ### See You 👋
 
 
