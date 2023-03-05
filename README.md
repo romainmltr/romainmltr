@@ -18,7 +18,7 @@ But seriously, my git is like my own little slice of cyberspace, where I can sto
 * [Linkedin](https://www.linkedin.com/in/romain-malaterre/)
 
 My portfolio dev :  https://malaterreromain.webflow.io/ 
-And i may some photo : https://romainmalaterre.myportfolio.com/
+and i do some photography: https://romainmalaterre.myportfolio.com/
 
 
 ![Alt Text](https://media.giphy.com/media/sOALjihd6s7lsHZH9g/giphy.gif)
