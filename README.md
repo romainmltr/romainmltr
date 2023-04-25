@@ -4,11 +4,6 @@ You know, I took inspiration from tech giants like Elon Musk and Mark Zuckerberg
 
 But seriously, my git is like my own little slice of cyberspace, where I can store my coding creations and share them with the world. So take a look, play around, and let's see if we can create some digital magic together ! 🦸🏼‍♂️
 
-
->- [x] Photoshop | Adobe XD | Figma
->- [x] JavaScript | React| Vue.js
->- [x] PHP | Symfony | Laravel 
->- [x] Tailwind 
   
 </center>
 
