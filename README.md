@@ -1,5 +1,4 @@
-#🤖
-Oh, hello there fellow humans! 
+# 🤖 Oh, hello there fellow humans! 
 I am thrilled to present to you my git, or as my code-savvy friends call it, my digital offspring.
 I am a young and eager student developer, and I'm positive you'll be blown away by what I've created. 🩷 
 
