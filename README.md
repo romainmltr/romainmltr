@@ -2,6 +2,7 @@
 I am thrilled to present to you my git, or as my code-savvy friends call it, my digital offspring.
 I am a young and eager student developer, and I'm positive you'll be blown away by what I've created. 🩷 
 
+## My insipirations
 You know, I took inspiration from tech giants like Elon Musk and Mark Zuckerberg to make sure my git is out of this world (or at least the internet).
 It's got all the bells and whistles - commits, branches 🎋 , merges, and even some fancy-schmancy emojis to keep things interesting. 
 
