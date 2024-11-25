@@ -8,8 +8,7 @@ It's got all the bells and whistles - commits, branches 🎋 , merges, and even 
 
 But seriously 🪂, my git is like my own little slice of cyberspace, where I can store my coding creations and share them with the world. So take a look, play around, and let's see if we can create some digital magic together ! 🦸🏼‍♂️
 
- 
-### Contact me :                                                            ![Alt Text](https://media.giphy.com/media/sOALjihd6s7lsHZH9g/giphy.gif)
+### Contact me :                                                       
 * romain_malaterre@hotmail.fr 
 * [Linkedin](https://www.linkedin.com/in/romain-malaterre/)
 
@@ -18,6 +17,8 @@ and i do some photography: https://romainmalaterre.myportfolio.com/
 
 
 ### See You 👋
+
+![Alt Text](https://media.giphy.com/media/sOALjihd6s7lsHZH9g/giphy.gif)
 
 
 
