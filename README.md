@@ -1,25 +1,36 @@
-# 🤖 Oh, hello there fellow humans! 
-I am thrilled to present to you my git, or as my code-savvy friends call it, my digital offspring.
-I am a young and eager student developer, and I'm positive you'll be blown away by what I've created. 🩷 
+# Romain Malaterre
 
-## My insipirations
-You know, I took inspiration from tech giants like Elon Musk and Mark Zuckerberg to make sure my git is out of this world (or at least the internet).
-It's got all the bells and whistles - commits, branches 🎋 , merges, and even some fancy-schmancy emojis to keep things interesting. 
+## 👨‍💻 Full Stack Developer | React | Django | Python | AI
 
-But seriously 🪂, my git is like my own little slice of cyberspace, where I can store my coding creations and share them with the world. So take a look, play around, and let's see if we can create some digital magic together ! 🦸🏼‍♂️
+Full Stack Developer specialized in web and mobile development with AI expertise. Currently working as a technical consultant, combining practical development skills with strong academic engineering background.
 
-### Contact me :                                                       
-* romain_malaterre@hotmail.fr 
-* [Linkedin](https://www.linkedin.com/in/romain-malaterre/)
+### 🎓 Education
+- Master's in Web & Mobile Engineering, AI Specialization
+- Expertise in full stack development and modern architectures
 
-My portfolio dev :  https://malaterreromain.webflow.io/ 
-and i do some photography: https://romainmalaterre.myportfolio.com/
+### 💼 Technical Expertise
+- **Front-end:** React.js, JavaScript/TypeScript, HTML5/CSS3
+- **Back-end:** Django, Python, RESTful APIs
+- **Artificial Intelligence:** Machine Learning, Pytorch
+- **DevOps:** Git, CI/CD, Docker
+- **Databases:** PostgreSQL, MongoDB
 
+### 🚀 Professional Experience
+- Technical Consultant at [Visian]
+ - Web and mobile application development
+ - Technical architecture design
+ - AI systems integration
+- Freelance Developer on Fiverr
+ - Custom development solutions
+ - Tailored web applications
+ - Technical consulting
 
-### See You 👋
+### 📫 Contact & Portfolio
+- 📧 Email: romain_malaterre@hotmail.fr
+- 💼 [LinkedIn](https://www.linkedin.com/in/romain-malaterre/)
+- 🌐 [Dev Portfolio](https://malaterreromain.webflow.io/)
+- 📸 [Photography Portfolio](https://romainmalaterre.myportfolio.com/)
 
-![Alt Text](https://media.giphy.com/media/sOALjihd6s7lsHZH9g/giphy.gif)
+---
 
-
-
-
+💡 Available for consulting and development projects. Feel free to reach out to discuss your technical needs or collaborate on innovative projects.
