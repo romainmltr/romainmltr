@@ -9,11 +9,12 @@ Full Stack Developer specialized in web and mobile development with AI expertise
 - Expertise in full stack development and modern architectures
 
 ### 💼 Technical Expertise
-- **Front-end:** React.js, JavaScript/TypeScript, HTML5/CSS3
-- **Back-end:** Django, Python, RESTful APIs
+- **Front-end:** React.js,React Natif, Redux, JavaScript/TypeScript, HTML5/CSS3
+- **Back-end:** Django, Python, Flask, RESTful APIs 
 - **Artificial Intelligence:** Machine Learning, Pytorch
 - **DevOps:** Git, CI/CD, Docker
-- **Databases:** PostgreSQL, MongoDB
+- **Databases:** PostgreSQL, MongoDB, MariaDB
+- **Server:** AWS EC2 RDS LAMBDA  AMPLIFY VERCEL 
 
 ### 🚀 Professional Experience
 - Technical Consultant at [Visian]
