@@ -5,7 +5,7 @@
 Full Stack Developer specialized in web and mobile development with AI expertise. Currently working as a technical consultant, combining practical development skills with strong academic engineering background.
 
 ### 🎓 Education
-- Master's in Web & Mobile Engineering, AI Specialization
+- Master's in Web Engineering, AI Specialization
 - Expertise in full stack development and modern architectures
 
 ### 💼 Technical Expertise
