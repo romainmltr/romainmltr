@@ -2,26 +2,25 @@
 
 ## 👨‍💻 Full Stack Developer | React | Django | Python | AI
 
-Full Stack Developer specialized in web and mobile development with AI expertise. Currently working as a technical consultant, combining practical development skills with strong academic engineering background.
+Full Stack Developer specialized in web and mobile development with AI expertise. Currently working as a Product Management technical consultant, combining pm and engineering.
 
 ### 🎓 Education
-- Master's in Web Engineering, AI Specialization
-- Expertise in full stack development and modern architectures
+- Master's in Web Management Engineering
+- Expertise in full stack developmen
 
 ### 💼 Technical Expertise
 - **Front-end:** React.js,React Natif, Redux, JavaScript/TypeScript, HTML5/CSS3
-- **Back-end:** Django, Python, Flask, RESTful APIs 
-- **Artificial Intelligence:** Machine Learning, Pytorch
+- **Back-end:** Django, Python, Flask, RESTful 
 - **DevOps:** Git, CI/CD, Docker
-- **Databases:** PostgreSQL, MongoDB, MariaDB
+- **Databases:** PostgreSQL, MongoDB
 - **Server:** AWS EC2 RDS LAMBDA  AMPLIFY VERCEL 
 
 ### 🚀 Professional Experience
-- Technical Consultant at [Visian]
+-  Product Onwer Technical Consultant at [Visian]
  - Web and mobile application development
  - Technical architecture design
  - AI systems integration
-- Freelance Developer on Fiverr
+- Freelanceon Fiverr
  - Custom development solutions
  - Tailored web applications
  - Technical consulting
